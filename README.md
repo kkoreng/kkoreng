@@ -11,5 +11,5 @@
 ---
 
 ## 📫 Contact
-- Discord: `@_hy89`
+- Discord: @_hy89
 - Email: chr54858@gmail.com

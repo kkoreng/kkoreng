@@ -5,11 +5,11 @@
 
 
 ## ARCADIA
-🔗 Website: https://arcadiateam.kr
-🔗 GitHub: https://github.com/ArcadiaTeam
+🔗 Website: https://arcadiateam.kr  
+🔗 GitHub: https://github.com/ArcadiaTeam  
 
 ---
 
 ## 📫 Contact
-- Discord: @_hy89
+- Discord: [@_hy89](https://discord.com/users/990839627789238282)
 - Email: chr54858@gmail.com

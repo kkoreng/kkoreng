@@ -8,6 +8,7 @@
 ![status](https://api.statusbadges.me/badge/status/990839627789238282?simple=true)
 ![Profile views](https://komarev.com/ghpvc/?username=kkoreng&color=0e75b6)  
 
+![Github Stats](https://raw.githubusercontent.com/kkoreng/github-stats-transparent/output/generated/overview.svg)  
 ![Top Languages](https://raw.githubusercontent.com/kkoreng/github-stats-transparent/output/generated/languages.svg)  
 
 ## 🔗 Contact Me

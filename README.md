@@ -6,7 +6,10 @@
 ---
 
 ![status](https://api.statusbadges.me/badge/status/990839627789238282?simple=true)
-![Profile views](https://komarev.com/ghpvc/?username=kkoreng&color=0e75b6)
+![Profile views](https://komarev.com/ghpvc/?username=kkoreng&color=0e75b6)  
+
+![Stats](https://raw.githubusercontent.com/kkoreng/github-stats-transparent/output/stats.svg)
+
 
 ## 🔗 Contact Me
 

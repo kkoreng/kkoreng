@@ -1,8 +1,7 @@
-## Hi there 👋 
-
 ![status](https://api.statusbadges.me/badge/status/990839627789238282?simple=true)
 ![Profile views](https://komarev.com/ghpvc/?username=kkoreng&color=0e75b6)
 
+## Hi there 👋 
 
 ## ARCADIA
 🔗 Website: https://arcadiateam.kr  

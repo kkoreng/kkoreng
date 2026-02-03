@@ -3,7 +3,8 @@
 
 ## Hi there 👋 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkoreng)](https://github.com/kkoreng/kkoreng)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkoreng&layout=compact)](https://github.com/kkoreng)
+
 
 ## ARCADIA
 🔗 Website: https://arcadiateam.kr  

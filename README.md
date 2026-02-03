@@ -1,7 +1,8 @@
 ![status](https://api.statusbadges.me/badge/status/990839627789238282?simple=true)
 ![Profile views](https://komarev.com/ghpvc/?username=kkoreng&color=0e75b6)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkoreng&layout=compact&cache_seconds=86400)](https://github.com/kkoreng)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kkoreng&layout=compact)](https://github.com/kkoreng)
+
 
 
 ## ARCADIA

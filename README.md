@@ -1,7 +1,7 @@
 ## ✨ ARCADIA
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NanAFkRdww)  
 [![Web](https://img.shields.io/badge/Web-Visit%20Website-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arcadiateam.kr)  
-[![GitHub](https://img.shields.io/badge/GitHub-ArcadiaTeam-181717?style=for-the-badge&logo=github)](https://github.com/ArcadiaTeam)  
+[![GitHub](https://img.shields.io/badge/GitHub-TeamArcadia-181717?style=for-the-badge&logo=github)](https://github.com/TeamArcadia)  
 
 ---
 ![status](https://api.statusbadges.me/badge/status/990839627789238282?simple=true)

@@ -10,6 +10,6 @@
 
 ---
 
-## 🔗 Contact
-[![Discord](https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/990839627789238282)
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chr54858@gmail.com)
+## 🔗 Contact me
+- Discord: [@_hy89](https://discord.com/users/990839627789238282)
+- Email: [chr54858@gmail.com](mailto:chr54858@gmail.com)

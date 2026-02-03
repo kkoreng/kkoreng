@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-TeamArcadia-24292e?style=for-the-badge&logo=github)](https://github.com/TeamArcadia)
 
 ---
-
+## 👤 Kkoreng
 ![status](https://api.statusbadges.me/badge/status/990839627789238282?simple=true)
 ![Profile views](https://komarev.com/ghpvc/?username=kkoreng&color=0e75b6)  
 
